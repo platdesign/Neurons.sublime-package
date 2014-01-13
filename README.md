@@ -39,3 +39,7 @@ A SublimeText-Package for [Neurons](https://github.com/platdesign/Neurons).
 	});
 	
 	
+##Author##
+
+Twitter: [Platdesign](https://twitter.com/platdesign)	
+eMail: [mail@platdesign.de](mailto:mail@platdesign.de)
