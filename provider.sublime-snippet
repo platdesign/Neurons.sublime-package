@@ -1,0 +1,19 @@
+<snippet>
+	<content><![CDATA[
+${1:\$module}->provider('${2:myProvider}', function(${3}){
+	${4}
+})${5:;}
+${0}
+]]></content>
+	<tabTrigger>provider</tabTrigger>
+	<scope>source.php</scope>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+
+	<description>Neurons</description>
+</snippet>
+
+
+

@@ -1,0 +1,17 @@
+<snippet>
+	<content><![CDATA[
+${1:\$${2:module} =} nrns::module('${3:myModule}', [${4:'dependencies'}]);
+${0}
+]]></content>
+	<tabTrigger>module</tabTrigger>
+	<scope>source.php</scope>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<!-- <tabTrigger>hello</tabTrigger> -->
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<!-- <scope>source.python</scope> -->
+
+	<description>Neurons</description>
+</snippet>
+
+
+
