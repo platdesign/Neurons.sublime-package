@@ -9,6 +9,7 @@ A SublimeText-Package for [Neurons](https://github.com/platdesign/Neurons).
 
 
 ##Snippets##
+Use these snippets to speed up your coding with Neurons.
 
 ###doorman###
 This should be placed at the top of each template-file to prevent direct execution.
