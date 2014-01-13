@@ -1,5 +1,7 @@
 #Neurons Sublime Text Package#
 
+A SublimeText-Package for [Neurons](https://github.com/platdesign/Neurons).
+
 ##Install##
 
 - `cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages`
@@ -35,3 +37,5 @@
 	$module->shutdown(function(){
 		
 	});
+	
+	
