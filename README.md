@@ -52,7 +52,9 @@ Creates a new shutdown-event-handler.
 	$module->shutdown(function(){
 		
 	});
-	
+
+###childview###
+	<?php echo $childView; ?>
 	
 ##Author##
 
